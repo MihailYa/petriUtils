@@ -1,5 +1,5 @@
 ### General
-This code provide utils for connecting PetriSim objects in [PetriObjModel library](https://github.com/StetsenkoInna/PetriObjModelPaint "PetriObjModel library")
+This code provides utilities for connecting PetriSim objects in the [PetriObjModel library](https://github.com/StetsenkoInna/PetriObjModelPaint "PetriObjModel library")
 
 ### Usage
 
